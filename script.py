@@ -1,3 +1,5 @@
+import moviepy as mp
+import json
 
 user = input("specify the path to the file: ")
 
